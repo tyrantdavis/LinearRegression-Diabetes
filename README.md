@@ -1,4 +1,4 @@
-# Linear Regression : Predicting Diabetes Progression
+# Linear Regression: Predicting Diabetes Progression
 
 ---
 
@@ -25,19 +25,25 @@ The data used in this project is from **[sklearn datasets](https://scikit-learn.
 
 ## Scenario
 
-You are an endocrinologist at a medical facility that provides disease services to diabetics and others to assist in managing a patient's illness. **Your number one priority is predicting when a patient is at risk of progressing the disease**. 
+You are doing consultant work for a medical practice that provides treatment in several different fields including endocrinology. 
+
+The endocrinologist has provided you with an anonymized dataset of past diabetic patients, including various medical attributes that might be indicators of disease progression. You have been asked to assist doctors with their efforts to monitor and anticipate the progression of the disease in patients. 
+
+**Your number one priority is predicting when a patient is at risk of progressing the disease**. 
 
 
 ## Strategy
+Given that this is an ordinal numeric Linear Regression will be the model of choice. 
 
 Linear regression is a powerful technique that can be employed to comprehend the relationship between a quantitative variable and one or more other variables, sometimes intending to make predictions. 
 
 # Tools & Technologies
-- Jupyterlab
+- [Anaconda](https://www.anaconda.com/)
+- [Jupyterlab](https://jupyterlab.readthedocs.io/en/latest/getting_started/overview.html)
 - JupyterNotebook
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- sklearn
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/index.html)
+- [sklearn](https://scikit-learn.org/stable/)
   
