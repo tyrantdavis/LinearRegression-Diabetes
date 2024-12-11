@@ -1,5 +1,6 @@
 # Linear Regression: Predicting Diabetes Progression
 
+## [Demo](https://nbviewer.org/github/tyrantdavis/LinearRegression-Diabetes/blob/main/diabetes.ipynb)
 ---
 
 ## Project Objective
